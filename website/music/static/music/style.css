@@ -1,0 +1,10 @@
+body{
+    background: url("images/bg4.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.navbar{
+border-radius: 0;
+}
+.navbar-brand{
+    font-family: Satisfy, cursive;
+}
