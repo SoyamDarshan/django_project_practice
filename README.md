@@ -3,7 +3,10 @@ Django Application: A platform to save personal music, create playlists, mark fa
 
 
 # DJANGO STEPS
-open powershell as an admin
+
+
+## open powershell as an admin
+
 
 ## check python version
 ```
