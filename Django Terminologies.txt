@@ -1,0 +1,21 @@
+Django Terminologies
+=====================
+
+migration
+basically a way to conntect your website to your database
+
+__init__.py
+to tell python that this is a package
+
+admin
+contains the admin functionalities
+
+apps
+configuration file for your app
+
+models
+blueprint for your database, how you are going to store data in your database
+
+views
+python function that take user request and returns the response
+
